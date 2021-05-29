@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header a{
+ text-decoration: gold; 
+ color: gold;  
+}
+ header b{
+text-decoration: gold;
+color: lime;
+ }
+h1 i{
+ color: teal;
+}
+footer p{
+color: indigo;
+}
+nav a{
+font-size: 20px;
+text-decoration: none;
+color: mediumblue;
+border: 3px gold;
+border-radius: 10px;
+background-color: lime;
+}
+p img{
+background-color: gold;
+}
+p{
+margin: ;
